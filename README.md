@@ -6,8 +6,7 @@
 
 ### Topics Covered
 
-1. [Introduction & Review](https://github.com/jordanott/CPSC392/blob/master/Notebooks/Introduction.ipynb)   
-  * Probability, Statistics, Calculus, Linear Algebra  
+1. [Introduction & Review](https://github.com/jordanott/CPSC392/blob/master/Notebooks/Introduction.ipynb)    
 2. [Visualization](https://github.com/jordanott/CPSC392/blob/master/Notebooks/Visualization.ipynb)  
 3. [K-Nearest Neighbor](https://github.com/jordanott/CPSC392/blob/master/Notebooks/KNN.ipynb)  
 4. [Linear Regression](https://github.com/jordanott/CPSC392/blob/master/Notebooks/Linear%20Regression.ipynb)  
