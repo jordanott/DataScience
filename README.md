@@ -11,7 +11,7 @@
 3. [K-Nearest Neighbor](https://github.com/jordanott/CPSC392/blob/master/Notebooks/KNN.ipynb)  
 4. [Linear Regression](https://github.com/jordanott/CPSC392/blob/master/Notebooks/Linear%20Regression.ipynb)  
 5. Logistic Regression  
-6. Naive Bayes  
+6. [Naive Bayes](https://github.com/jordanott/CPSC392/blob/master/Labs/NaiveBayes.ipynb)  
 7. K-Means  
 8. [Dimensionality Reduction](https://github.com/jordanott/CPSC392/blob/master/Notebooks/DimensionalityReduction.ipynb)  
 9. [Decision Trees](https://github.com/jordanott/CPSC392/blob/master/Notebooks/Decision%20Trees.ipynb)  
