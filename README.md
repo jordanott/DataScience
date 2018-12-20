@@ -15,4 +15,4 @@
 7. K-Means  
 8. [Dimensionality Reduction](https://github.com/jordanott/CPSC392/blob/master/Notebooks/DimensionalityReduction.ipynb)  
 9. [Decision Trees](https://github.com/jordanott/CPSC392/blob/master/Notebooks/Decision%20Trees.ipynb)  
-10. [Neural Networks](https://github.com/jordanott/CPSC392/blob/master/Notebooks/NeuralNetworks.ipynb)  
+10. [Neural Networks](https://github.com/jordanott/CPSC392/blob/master/Labs/NeuralNetworks.ipynb)  
